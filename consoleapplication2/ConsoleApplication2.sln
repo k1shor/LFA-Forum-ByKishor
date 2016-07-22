@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFAPROJECTFORUM", "ConsoleApplication2\LFAPROJECTFORUM.csproj", "{38D78822-9389-4278-BB92-14A2CA345D6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFAPROJECTFORUMConsole", "ConsoleApplication2\LFAPROJECTFORUMConsole.csproj", "{38D78822-9389-4278-BB92-14A2CA345D6B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{935C8EB0-9382-4B49-82EB-8E7EFB035A60}"
 EndProject
